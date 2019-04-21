@@ -2,3 +2,10 @@
   Write your styles/CSS for App.js here and import into the component that you need 
   IF you'd like to attempt to use less you'll have to research how to do this with Create React App
 */
+.cardContMain{
+  width: 575px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px 5px 0 0;
+  box-shadow: 5px 5px 20px rgba(128, 128, 128, 0.637);
+}
