@@ -1,10 +1,14 @@
-import React from 'react';
-import './Card.css';
+import React from "react";
+import "./Card.css";
+import CardContent from './CardContent';
 
 const CardBanner = () => {
-    return(
-        <img src="/public/social-card.png" />
-    )
-}
+  return (
+    <div>
+      <img src="/images/social-card.png" />
+      <CardContent />
+    </div>
+  );
+};
 
 export default CardBanner;
