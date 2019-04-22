@@ -1,1 +1,19 @@
 /* All styles for your header Components live here */
+.header-cont{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.header-cont img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding: 5px;
+}
+.header-title{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.header-cont{
+    font-size: .9rem;
+}
