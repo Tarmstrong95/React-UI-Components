@@ -92,7 +92,7 @@ btnClick( button, classname){
 }
 
 calculate(string){
-  return eval(string)
+    return eval(string)
 }
   render(){
     return (
