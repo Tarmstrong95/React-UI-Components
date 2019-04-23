@@ -1,4 +1,9 @@
 .calc-display{
     background-color: rgb(32, 32, 32);
-    height: 70px;
+    text-align: right;
+}
+.calc-display h1{
+    color: white;
+    padding: 10px 5px;
+    margin: 0;
 }
