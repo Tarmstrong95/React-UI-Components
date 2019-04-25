@@ -1,0 +1,26 @@
+.button-small {
+    background-color: white;
+    border: none;
+    font-size: 2rem;
+    font-weight: bold;
+    width: 25%;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.322);
+}
+
+.button-large {
+    border: none;
+    background-color: white;
+    width: 75%;
+    font-size: 2rem;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.322);
+
+}
+
+.red {
+    border: 1px solid rgba(0, 0, 0, 0.322);
+    color: white;
+    background-color: rgb(185, 0, 0);
+    font-weight: 100;
+}
