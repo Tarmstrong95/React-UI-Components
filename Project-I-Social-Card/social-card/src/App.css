@@ -2,3 +2,8 @@
   Write your styles/CSS for App.js here and import into the component that you need 
   IF you'd like to attempt to use less you'll have to research how to do this with Create React App
 */
+.app {
+  width: 500px;
+  padding: 5px;
+  box-shadow: -2px 2px 10px 5px rgba(128, 128, 128, 0.342);
+}
